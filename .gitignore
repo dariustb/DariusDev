@@ -2,4 +2,7 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
+
+# Ignores files created by bundler
+.bundle/
+vendor/
